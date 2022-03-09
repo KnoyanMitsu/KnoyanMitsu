@@ -15,3 +15,4 @@
 </br>
 Anyway im here just post issue your repo and fork repo like kernel android and rom
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnoyanMitsu)](https://github.com/anuraghazra/github-readme-stats)
