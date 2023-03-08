@@ -1,5 +1,11 @@
-### Hi there 👋
+<h4>hey welcome to my profile</h4>
 
+
+![ezgif-3-85c78c88da](https://user-images.githubusercontent.com/65282316/223702913-a6dfc967-7149-47bb-a74c-a210b1042ffe.gif)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnoyanMitsu&show_icons=true&theme=dracula)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/KnoyanMitsu))
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KnoyanMitsu&theme=dracula)](https://git.io/streak-stats)
 <!--
 **KnoyanMitsu/KnoyanMitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
