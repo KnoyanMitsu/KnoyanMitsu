@@ -1,5 +1,6 @@
 <h4>hey welcome to Knoyan Mitsu profile</h4>
 
+Arti Dari Knoyan adalah gak tau artinya apa 
 
 ![ezgif-3-85c78c88da](https://user-images.githubusercontent.com/65282316/223702913-a6dfc967-7149-47bb-a74c-a210b1042ffe.gif)
 
