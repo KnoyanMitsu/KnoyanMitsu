@@ -4,6 +4,7 @@ Arti Dari Knoyan adalah gak tau artinya apa
 
 ![ezgif-3-85c78c88da](https://user-images.githubusercontent.com/65282316/223702913-a6dfc967-7149-47bb-a74c-a210b1042ffe.gif)
 
+<h1> 🌱 I’m currently learning ... </h1>
 
 <h1>About Me ✨</h1>
 <ul>
@@ -13,6 +14,11 @@ Arti Dari Knoyan adalah gak tau artinya apa
     <li>And yeah I like Drawing scenery and uhh furry stuff (should i write this? well is about me)</li>
 </ul>
 
+<h1>Learn in Future 🚀</h1>
+<ul>
+    <li>Can code with Python</li>
+    <li>Learn all about Data Science and Machine Learning</li>
+</ul>
 
 <!--
 **KnoyanMitsu/KnoyanMitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
