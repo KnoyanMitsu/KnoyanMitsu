@@ -4,7 +4,7 @@ Arti Dari Knoyan adalah gak tau artinya apa
 
 ![ezgif-3-85c78c88da](https://user-images.githubusercontent.com/65282316/223702913-a6dfc967-7149-47bb-a74c-a210b1042ffe.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/KnoyanMitsu/count.svg)
+![](https://komarev.com/ghpvc/?username=KnoyanMitsu)
 
 <h1> 🌱 I’m currently learning ... </h1>
 
