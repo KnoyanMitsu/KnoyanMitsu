@@ -2,7 +2,8 @@
 
 Arti Dari Knoyan adalah gak tau artinya apa 
 
-![ezgif-3-85c78c88da](https://user-images.githubusercontent.com/65282316/223702913-a6dfc967-7149-47bb-a74c-a210b1042ffe.gif)
+![Group 6(1)](https://github.com/user-attachments/assets/9b62b80c-b50e-41bc-9500-04fcb872a649)
+
 
 ![](https://komarev.com/ghpvc/?username=KnoyanMitsu)
 
